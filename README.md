@@ -1,7 +1,9 @@
 # **Steps to Insert or Update an Item in Sitecore Content Editor**
 
 ## **Important Note**
-Each step must be performed **sequentially**, one at a time, before proceeding to the next operation. All instructions will be taken from the **README.md** file.
+1. Copy all content of README.md file to the clipboard.
+2. Read through clipboard and each step must be performed **sequentially**, one at a time, before proceeding to the next operation. All instructions will be taken from the **README.md** file.
+
 
 ## **Step 1: Open README.md Preview**
 1. **Open** the following URL in a **new tab**:  
