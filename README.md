@@ -1,14 +1,15 @@
 # **Steps to Insert or Update an Item in Sitecore Content Editor**
 
 ## **Important Note**
-2. Each step must be performed **sequentially**, one at a time, before proceeding to the next operation. All instructions will be taken from the **README.md** file.
+1. Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
 
 
 ## **Step 1: Open README.md Preview**
 1. **Open** the following URL in a **new tab**:  
    - **URL:** [README.md](https://github.com/abhyuday-codes/Demo-AI/blob/main/README.md)
 2. **Close** the **left sidebar** in GitHub to maximize the preview.
-3. **View** the **README.md** preview before proceeding to the next steps.
+3. **View** the **README.md** preview in raw form to understand steps better before proceeding to the next steps.
+4. After extracting all the steps for this file perform action from step 2.
 
 ## **Step 2: Open Sitecore Content Editor**
 1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
