@@ -1,4 +1,4 @@
-# **Steps to Insert or Update an Item in Sitecore Content Editor**
+# **WRITE DOWN BELOW WRITTEN INSTRUCTIONS AND READ THEN FOLLOW INSTRUCTIONS**
 
 ## **Important Note**
 1. Each step must be performed **sequentially**, one at a time, before proceeding to the next step.
