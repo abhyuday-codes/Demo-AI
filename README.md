@@ -1,7 +1,7 @@
-# **Steps to Insert a New Item in Sitecore Content Editor**
+# **Steps to Insert or Update an Item in Sitecore Content Editor**
 
 ## **Important Note**
-Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
+Each step must be performed **sequentially**, one at a time, before proceeding to the next operation. All instructions will be taken from the **README.md** file.
 
 ## **Step 1: Open README.md Preview**
 1. **Open** the following URL in a **new tab**:  
@@ -32,17 +32,17 @@ Each step must be performed **sequentially**, one at a time, before proceeding t
 ## **Step 5: Assign Content to Fields**
 1. **Select** the **newly created item** in the content tree.
 2. **Fill** in the **content section**:
-   - **Title:** Enter the title for the page.
-   - **Content:** Enter detailed content.
-   - **First Name:** Copy ‘First Name’ from the **Details** document tab and paste it into Sitecore.
-   - **Last Name:** Copy ‘Last Name’ from the **Details** document tab and paste it into Sitecore.
-   - **Designation:** Copy ‘Designation’ from the **Details** document tab and paste it into Sitecore.
-   - **Location:** Copy ‘Location’ from the **Details** document tab and paste it into Sitecore.
-   - **Email:** Copy ‘Email’ from the **Details** document tab and paste it into Sitecore.
+   - **Title:** Enter the title for the page and check for spelling and grammar.
+   - **Content:** Enter detailed content and check for spelling and grammar.
+   - **First Name:** Copy ‘First Name’ from the **Details** document tab and paste it into Sitecore (no spell check required).
+   - **Last Name:** Copy ‘Last Name’ from the **Details** document tab and paste it into Sitecore (no spell check required).
+   - **Designation:** Copy ‘Designation’ from the **Details** document tab, paste it into Sitecore, and check for spelling and grammar.
+   - **Location:** Copy ‘Location’ from the **Details** document tab, paste it into Sitecore, and check for spelling and grammar.
+   - **Email:** Copy ‘Email’ from the **Details** document tab and paste it into Sitecore (no spell check required).
    - **Image:** Select/upload an image from **query:$siteMedia**.
 3. **Fill** in the **metadata section**:
-   - **SEO Title:** Enter the SEO title.
-   - **SEO Description:** Enter the SEO description.
+   - **SEO Title:** Enter the SEO title and check for spelling and grammar.
+   - **SEO Description:** Enter the SEO description and check for spelling and grammar.
 4. **Click** **Save** to store the content changes.
 
 ## **Step 6: Assign Presentation Details**
@@ -56,9 +56,21 @@ Each step must be performed **sequentially**, one at a time, before proceeding t
 8. **Click** **OK** to confirm changes.
 9. **Click** **Save** to apply the presentation settings.
 
-## **Step 7: Publish the Item**
+## **Step 7: Update Existing Item (If Already Created)**
+1. **Check** if the item already exists in the **content tree**.
+2. **Select** the existing item and **verify all fields**:
+   - **Title:** Ensure correct spelling and grammar.
+   - **Content:** Check for spelling and grammar.
+   - **Designation:** Verify correct spelling and grammar.
+   - **Location:** Ensure there are no spelling errors.
+   - **SEO Title & Description:** Verify spelling and grammar.
+3. **Check** if any field contains a **URL**:
+   - **Ensure** that the link is relevant to the item’s details.
+   - **Verify** that the link is **working and accessible**.
+4. **Make necessary updates** and **click Save** to store the changes.
+
+## **Step 8: Publish the Item**
 1. **Navigate** to the **Publish** tab in the ribbon or top bar.
 2. **Select** **Publish Item** from the dropdown on **Publish**.
 3. **Choose** **Smart Publish** to apply all updates.
 4. **Click** **Publish** to confirm and complete the publishing process.
-
