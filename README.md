@@ -1,7 +1,8 @@
 # **Steps to Insert or Update an Item in Sitecore Content Editor**
 
 ## **Important Note**
-Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
+1. Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
+2. For each step instructions are given below the headline of that particular step, just follow those and perform operations.
 
 ## **Step 1: Open Sitecore Content Editor**
 1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
