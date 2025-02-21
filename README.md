@@ -20,27 +20,28 @@
 3. **Scroll down** and locate the **Content Editor** option in the interface and open it.
 
 ## **Step 3: Navigate to the Content Tree**
-1. **Locate** the **content tree panel** in the **Content Editor**.
+1. **Locate** the **content tree panel** in the **Content Editor** which will be in leftbar of sitecore.
 2. **Navigate** to the following path:
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People`
 
 ## **Step 4: Insert a New Item**
 1. **Right-click** on the target folder.
 2. **Select** **Insert → New Item** from the available options.
-3. **Choose** the **appropriate template** for the new item.
+3. **Choose** the **appropriate template** for the new item, if insert options are shown other than "insert from template"
+   then select appropriate one among them.
 4. **Provide** a **meaningful name** for the item.
 5. **Click** **OK** to finalize the item creation.
 
 ## **Step 5: Assign Content to Fields**
 1. **Select** the **newly created item** in the content tree.
-2. **Fill** in the **content section**:
-   - **Title:** Enter the title for the page and check for spelling and grammar.
-   - **Content:** Enter detailed content and check for spelling and grammar.
-   - **First Name:** Copy ‘First Name’ from the **Details** document tab and paste it into Sitecore (no spell check required).
-   - **Last Name:** Copy ‘Last Name’ from the **Details** document tab and paste it into Sitecore (no spell check required).
-   - **Designation:** Copy ‘Designation’ from the **Details** document tab, paste it into Sitecore, and check for spelling and grammar.
-   - **Location:** Copy ‘Location’ from the **Details** document tab, paste it into Sitecore, and check for spelling and grammar.
-   - **Email:** Copy ‘Email’ from the **Details** document tab and paste it into Sitecore (no spell check required).
+2. **Validate** in the **content section** according to the fields present in item:
+   - **Title:** (no spell check required).
+   - **Content:** (spell check required if field is present, if wrong then correct it)
+   - **First Name:** (no spell check required).
+   - **Last Name:** (no spell check required).
+   - **Designation:** check for spelling and grammar.
+   - **Location:** check for spelling and grammar.
+   - **Email:** (no spell check required but check whether email format is correct or not).
    - **Image:** Select/upload an image from **query:$siteMedia**.
 3. **Fill** in the **metadata section**:
    - **SEO Title:** Enter the SEO title and check for spelling and grammar.
