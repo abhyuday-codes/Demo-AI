@@ -1,17 +1,9 @@
 # **Steps to Insert or Update an Item in Sitecore Content Editor**
 
 ## **Important Note**
-1. Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
+Each step must be performed **sequentially**, one at a time, before proceeding to the next operation.
 
-
-## **Step 1: Open README.md Preview**
-1. **Open** the following URL in a **new tab**:  
-   - **URL:** [README.md](https://github.com/abhyuday-codes/Demo-AI/blob/main/README.md)
-2. **Close** the **left sidebar** in GitHub to maximize the preview.
-3. **View** the **README.md** preview in raw form to understand steps better before proceeding to the next steps.
-4. After extracting all the steps for this file perform action from step 2.
-
-## **Step 2: Open Sitecore Content Editor**
+## **Step 1: Open Sitecore Content Editor**
 1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
    - **URL:** https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad
 2. **Enter** the following credentials to log in:
@@ -19,12 +11,12 @@
    - **Password:** `Altudo@12345`
 3. **Scroll down** and locate the **Content Editor** option in the interface and open it.
 
-## **Step 3: Navigate to the Content Tree**
+## **Step 2: Navigate to the Content Tree**
 1. **Locate** the **content tree panel** in the **Content Editor** which will be in leftbar of sitecore.
 2. **Navigate** to the following path:
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People`
 
-## **Step 4: Insert a New Item**
+## **Step 3: Insert a New Item**
 1. **Right-click** on the target folder.
 2. **Select** **Insert → New Item** from the available options.
 3. **Choose** the **appropriate template** for the new item, if insert options are shown other than "insert from template"
@@ -32,7 +24,7 @@
 4. **Provide** a **meaningful name** for the item.
 5. **Click** **OK** to finalize the item creation.
 
-## **Step 5: Assign Content to Fields**
+## **Step 4: Assign Content to Fields**
 1. **Select** the **newly created item** in the content tree.
 2. **Validate** in the **content section** according to the fields present in item:
    - **Title:** (no spell check required).
@@ -48,7 +40,7 @@
    - **SEO Description:** Enter the SEO description and check for spelling and grammar.
 4. **Click** **Save** to store the content changes.
 
-## **Step 6: Assign Presentation Details**
+## **Step 5: Assign Presentation Details**
 1. **Navigate** to the **Presentation** tab in the Sitecore ribbon or top bar.
 2. **Go to** **Details** and click on **Edit** for the MVC layout.
 3. **Go to** **Controls** and select **Add**.
@@ -59,7 +51,7 @@
 8. **Click** **OK** to confirm changes.
 9. **Click** **Save** to apply the presentation settings.
 
-## **Step 7: Update Existing Item (If Already Created)**
+## **Step 6: Update Existing Item (If Already Created)**
 1. **Check** if the item already exists in the **content tree**.
 2. **Select** the existing item and **verify all fields**:
    - **Title:** Ensure correct spelling and grammar.
@@ -72,7 +64,7 @@
    - **Verify** that the link is **working and accessible**.
 4. **Make necessary updates** and **click Save** to store the changes.
 
-## **Step 8: Publish the Item**
+## **Step 7: Publish the Item**
 1. **Navigate** to the **Publish** tab in the ribbon or top bar.
 2. **Select** **Publish Item** from the dropdown on **Publish**.
 3. **Choose** **Smart Publish** to apply all updates.
