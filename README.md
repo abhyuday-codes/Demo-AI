@@ -11,7 +11,7 @@ Each step must be performed **sequentially**, one at a time, before proceeding t
 
 ## **Step 2: Open Sitecore Content Editor**
 1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
-   - **URL:** [Sitecore Launchpad](https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad)
+   - **URL:** https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad
 2. **Enter** the following credentials to log in:
    - **Username:** `aiagent`
    - **Password:** `Altudo@12345`
