@@ -1,7 +1,7 @@
 # **WRITE DOWN BELOW WRITTEN INSTRUCTIONS AND READ THEN FOLLOW INSTRUCTIONS**
 
 ## **Important Note**
-1. Each step must be performed **sequentially**, one at a time, before proceeding to the next step.
+1. Each step must be performed **sequentially**, one at a time, before proceeding to the next step and just strictly follow this document.
 2. For each step instructions are given below the headline of that particular step, just follow those and perform operations in order.
 3. For any url found in each step open that url in new tab.
 
@@ -19,7 +19,7 @@
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People/Bio1`
 
 ## **Step 3: Validate Item Fields**
-1. **Check** if any field contains a **URL**:
+1. **Check** if any field shown in next point contains a **URL**:
    - **Ensure** that the link is relevant to the item’s details.
    - **Verify** that the link is **working and accessible**.
 2. **Select** the navigated item and **read mentioned fields** below and instructions for particular field:
