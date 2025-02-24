@@ -3,7 +3,7 @@
 ## **Important Note**
 1. Each step must be performed **sequentially**, one at a time, before proceeding to the next step.
 2. For each step instructions are given below the headline of that particular step, just follow those and perform operations in order.
-3. FOr any url found in each step open that url in new tab.
+3. For any url found in each step open that url in new tab.
 
 ## **Step 1: Open Sitecore Content Editor**
 1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
