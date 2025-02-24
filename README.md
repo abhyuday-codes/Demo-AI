@@ -18,7 +18,7 @@
 2. **Navigate** to the following path:
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People/Bio1`
 
-## **Step 3: Update Existing Item (If Already Created)**
+## **Step 3: Update Existing Item**
 1. **Select** the existing item and **verify all fields**:
    - **Title:** Ensure correct spelling and grammar.
    - **Content:** Check for spelling and grammar.
@@ -34,7 +34,7 @@
 
 ## **Step 4: Insert a New Item**
 1. **Right-click** on the target folder.
-2. **Select** **Insert → Page** from the available options.
+2. **Select** **Insert → Bio Page** from the available options.
 3. **Provide** a **meaningful name** for the item.
 5. **Click** **OK** to finalize the item creation.
 
