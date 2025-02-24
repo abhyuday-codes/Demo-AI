@@ -18,19 +18,19 @@
 2. **Navigate** to the following path:
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People/Bio1`
 
-## **Step 3: Update Existing Item**
-1. **Select** the existing item and **verify all fields**:
+## **Step 3: Validate Item Fields**
+1. **Check** if any field contains a **URL**:
+   - **Ensure** that the link is relevant to the item’s details.
+   - **Verify** that the link is **working and accessible**.
+2. **Select** the navigated item and **read mentioned fields** below and instructions for particular field:
    - **Title:** Ensure correct spelling and grammar.
+   - **First Name:** Ensure correct spelling and grammar.
+   - **Last Name:** Ensure correct spelling and grammar.
    - **Content:** Check for spelling and grammar.
    - **Designation:** Verify correct spelling and grammar.
    - **Location:** Ensure there are no spelling errors.
-   - **SEO Title & Description:** Verify spelling and grammar.
-2. **Check** if any field contains a **URL**:
-   - **Ensure** that the link is relevant to the item’s details.
-   - **Verify** that the link is **working and accessible**.
+   - **Email:** Ensure correct spelling and grammar.
 3. **Make necessary updates** and **click Save** to store the changes.
-4. **Navigate** to the following path:
-   - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People` 
 
 ## **Step 4: Insert a New Item**
 1. **Right-click** on the target folder.
