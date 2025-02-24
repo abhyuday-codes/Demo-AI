@@ -15,7 +15,7 @@
 
 ## **Step 2: Navigate to the Content Tree**
 1. **Locate** the **content tree panel** in the **Content Editor** which will be in leftbar of sitecore.
-2. **Navigate** to the following path:
+2. **Navigate** to the following path by expanding each node one by one by click on '>':
    - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People/Bio1`
 
 ## **Step 3: Validate Item Fields**
