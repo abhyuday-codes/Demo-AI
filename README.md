@@ -33,10 +33,11 @@
 3. **Make necessary updates** and **click Save** to store the changes.
 
 ## **Step 4: Insert a New Item**
-1. **Right-click** on the target folder.
-2. **Select** **Insert → Bio Page** from the available options.
+1. **Navigate** to the following path:
+   - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People`
+2. **Right Click** and **Select** **Insert → Bio Page** from the available options.
 3. **Provide** a **meaningful name** for the item.
-5. **Click** **OK** to finalize the item creation.
+4. **Click** **OK** to finalize the item creation.
 
 ## **Step 5: Assign Content to Fields**
 1. **Select** the **newly created item** in the content tree.
@@ -49,10 +50,7 @@
    - **Location:** check for spelling and grammar.
    - **Email:** (no spell check required but check whether email format is correct or not).
    - **Image:** Select/upload an image from **query:$siteMedia**.
-3. **Fill** in the **metadata section**:
-   - **SEO Title:** Enter the SEO title and check for spelling and grammar.
-   - **SEO Description:** Enter the SEO description and check for spelling and grammar.
-4. **Click** **Save** to store the content changes.
+3. **Click** **Save** to store the content changes.
 
 ## **Step 6: Assign Presentation Details**
 1. **Navigate** to the **Presentation** tab in the Sitecore ribbon or top bar.
