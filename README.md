@@ -1,16 +1,8 @@
-1. Open this sharepoint url in new tab: https://edynamics.sharepoint.com/sites/AIAgentDemo/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAIAgentDemo%2FShared%20Documents%2FDemo%20Assets%2FPublications&viewid=b9839b1d%2D2439%2D46c1%2Dabf0%2Db66eab123420 
-
+1. Open most People.docx word document, go ahead and just open it. 
  
-2.  Log in with: 
-- **Username:** ai.agent@altudo.co 
+2. Open the Sitecore Content Editor in new tab: [URL](https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad). 
 
-  - **Password:** Welcm$8712## 
-
-3. Open most recent modified word document, go ahead and just open it. 
- 
-4. Open the Sitecore Content Editor in new tab: [URL](https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad). 
-
-5. Log in with:  
+3. Log in with:  
 
   - **Username:** aiagent  
 
@@ -18,15 +10,15 @@
 
 Proceed log in, don’t ask and Click Ok. 
 
-6. Scroll down and open the **Content Editor**. 
+4. Scroll down and open the **Content Editor**. 
 
-7. click on  the **LighthouseLifestyle** under “Demo SXA Sites” in the left panel 
+5. click on  the **LighthouseLifestyle** under “Demo SXA Sites” in the left panel 
 
-8. Search for /sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/people, select the direct hit item with name ‘People’ 
+6. Search for /sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/people, select the direct hit item with name ‘People’ 
 
-9. close the search result by clicking on cross icon 
+7. close the search result by clicking on cross icon 
 
-10. Right Click on People node from the left content tree and Select Insert -> ‘Bio Page’. 
+. Right Click on People node from the left content tree and Select Insert -> ‘Bio Page’. 
 
 11. Proceed with inserting it and click Ok. 
 
