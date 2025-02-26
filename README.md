@@ -1,71 +1,89 @@
-# **WRITE DOWN BELOW WRITTEN INSTRUCTIONS AND READ THEN FOLLOW INSTRUCTIONS**
+1. Open this sharepoint url in new tab: https://edynamics.sharepoint.com/sites/AIAgentDemo/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAIAgentDemo%2FShared%20Documents%2FDemo%20Assets%2FPublications&viewid=b9839b1d%2D2439%2D46c1%2Dabf0%2Db66eab123420 
 
-## **Important Note**
-1. Each step must be performed **sequentially**, one at a time, before proceeding to the next step and just strictly follow this document.
-2. For each step instructions are given below the headline of that particular step, just follow those and perform operations in order.
-3. For any url found in each step open that url in new tab.
+ 
+2.  Log in with: 
+- **Username:** ai.agent@altudo.co 
 
-## **Step 1: Open Sitecore Content Editor**
-1. **Open** a web browser and navigate to the Sitecore Content Editor using the following URL in a **new tab**:  
-   - **URL:** https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad
-2. **Enter** the following credentials to log in:
-   - **Username:** `aiagent`
-   - **Password:** `Altudo@12345`
-3. **Scroll down** and locate the **Content Editor** option in the interface and open it.
+  - **Password:** Welcm$8712## 
 
-## **Step 2: Navigate to the Content Tree**
-1. **Locate** the **content tree panel** in the **Content Editor** which will be in leftbar of sitecore.
-2. **Navigate** to the following path by expanding each node one by one by click on '>':
-   - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People/Bio1`
+3. Open most recent modified word document, go ahead and just open it. 
+ 
+4. Open the Sitecore Content Editor in new tab: [URL](https://testautomation-cm.sitecoredemo.com/sitecore/shell/sitecore/client/Applications/Launchpad). 
 
-## **Step 3: Validate Item Fields**
-1. **Check** if any field shown in next point contains a **URL**:
-   - **Ensure** that the link is relevant to the item’s details.
-   - **Verify** that the link is **working and accessible**.
-2. **Select** the navigated item and **read mentioned fields** below and instructions for particular field:
-   - **Title:** Ensure correct spelling and grammar.
-   - **First Name:** Ensure correct spelling and grammar.
-   - **Last Name:** Ensure correct spelling and grammar.
-   - **Content:** Check for spelling and grammar.
-   - **Designation:** Verify correct spelling and grammar.
-   - **Location:** Ensure there are no spelling errors.
-   - **Email:** Ensure correct spelling and grammar.
-3. **Make necessary updates** and **click Save** to store the changes.
+5. Log in with:  
 
-## **Step 4: Insert a New Item**
-1. **Navigate** to the following path:
-   - **Path:** `/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/People`
-2. **Right Click** and **Select** **Insert → Bio Page** from the available options.
-3. **Provide** a **meaningful name** for the item.
-4. **Click** **OK** to finalize the item creation.
+  - **Username:** aiagent  
 
-## **Step 5: Assign Content to Fields**
-1. **Select** the **newly created item** in the content tree.
-2. **Validate** in the **content section** according to the fields present in item:
-   - **Title:** (no spell check required).
-   - **Content:** (spell check required if field is present, if wrong then correct it)
-   - **First Name:** (no spell check required).
-   - **Last Name:** (no spell check required).
-   - **Designation:** check for spelling and grammar.
-   - **Location:** check for spelling and grammar.
-   - **Email:** (no spell check required but check whether email format is correct or not).
-   - **Image:** Select/upload an image from **query:$siteMedia**.
-3. **Click** **Save** to store the content changes.
+  - **Password:** Altudo@12345 
 
-## **Step 6: Assign Presentation Details**
-1. **Navigate** to the **Presentation** tab in the Sitecore ribbon or top bar.
-2. **Go to** **Details** and click on **Edit** for the MVC layout.
-3. **Go to** **Controls** and select **Add**.
-4. **Assign** the required **renderings and placeholders**.
-5. **Click** **Select**.
-6. **Go to** **Edit** and look for the **Rendering Variant**.
-7. **Assign** the appropriate **Rendering Variant** like in this case.
-8. **Click** **OK** to confirm changes.
-9. **Click** **Save** to apply the presentation settings.
+Proceed log in, don’t ask and Click Ok. 
 
+6. Scroll down and open the **Content Editor**. 
 
-## **Step 7: Publish the Item**
-1. **Navigate** to the **Publish** tab in the ribbon or top bar.
-2. **Select** **Publish Item** from the dropdown on **Publish**.
-3. **Choose** **Smart Publish** to apply all updates.
-4. **Click** **Publish** to confirm and complete the publishing process.
+7. click on  the **LighthouseLifestyle** under “Demo SXA Sites” in the left panel 
+
+8. Search for /sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/people, select the direct hit item with name ‘People’ 
+
+9. close the search result by clicking on cross icon 
+
+10. Right Click on People node from the left content tree and Select Insert -> ‘Bio Page’. 
+
+11. Proceed with inserting it and click Ok. 
+
+12. Go to word document tab of browser. 
+13. Extract only the title that is after 'Title:' 
+14. Copy and jump back to sitecore content editor. 
+15. Proceed with naming the new Title extracted from word document and copy without spaces. 
+
+16. Proceed with creating page and click ok.  
+
+17. Do not make any changes in word document any time, Do not directly work on sitecore fields, first copy to clipboard. 
+
+ 
+18. Go to word document window in browser and extract only the "Content:" field from document and copy to clipboard
+    do not open content editor until these below instructions are followed.
+	1) Make sure do not make any changes in word document.
+	2) Check for any spelling mistakes in extracted content to clipboard, correct it in clipboard.
+	3) Now look for hyperlink present in document and check if it is related to description of lawyer in clipboard content.
+	4) If link is not related to clipboard content then remove it from clipboard and statement associated with it.
+
+19. Remove irrelevant statements which are not associated with law from clipboard. Do not make any changes in document.  
+
+20. Look at expended “Content” block and fill the field "Content:" from clipboard content to sitecore content editor. 
+
+21. Go to word document window in browser and copy all fields from document and copy to clipboard
+    do not open content editor until these below instructions are followed.
+	1) Extract field "First Name" from clipboard and fill field "First Name:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+	2) Extract field "Designation" from clipboard and fill field "Designation:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+	3) Extract field "Location" from clipboard and fill field "Location:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+	4) Extract field "Email" from clipboard and fill field "Email:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+	5) Extract field "Last Name" from clipboard and fill field "Last Name:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+	6) Extract field "Phone no" from clipboard and fill field "Phone no:" from clipboard content to sitecore content editor
+	and verify this field again if correctly copied from clipboard.
+
+27. Scroll down and fill the field “Page description:” under "Page Meta Properties" by generating suitable Meta description under. 
+
+28. Click on “Save” and then “Yes” to confirm changes. 
+
+29. Go to “Publish” tab on ribbon or topbar and click on “preview” just below “Experience Editor”, Don’t click on experience editor. 
+
+30. On the preview window wait for sometime verify all the content are properly shown as per word document fields. 
+
+31. If preview is updated properly go back to content editor window. 
+
+32. Click on “publish” dropdown and select “publish item” then click “OK” for “Workflow state” request. 
+
+33. Finally click on “publish” to publish item. 
+
+ 
+
+ 
+
+ 
+
+ 
